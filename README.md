@@ -3,7 +3,7 @@
 ## I'm a Computer Engineer, Full Stack Developer (MERN stack), and a competitive Programmer!
 
 <p align="center">
-<img  alt="Profile Photo"  src="https://raw.githubusercontent.com/CoderSaty/codersaty/master/images/decipher.jpeg" />
+<img  alt="Profile Photo"  src="https://github.com/CoderSaty/nikhilshukla07/blob/main/images/decipher.jpeg" />
 </p>
 
 ### Connect with me:
